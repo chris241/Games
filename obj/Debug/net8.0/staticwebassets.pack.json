@@ -1,43 +1,43 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\chrisstone.leon\\Videos\\GamesStore\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\chrisstone.leon\\Videos\\GamesStore\\obj\\Debug\\net8.0\\compressed\\d4latp0bbg.gz",
+      "Id": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\d4latp0bbg.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\chrisstone.leon\\Videos\\GamesStore\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GamesStore.styles.css",
+      "Id": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GamesStore.styles.css",
       "PackagePath": "staticwebassets\\GamesStore.styles.css"
     },
     {
-      "Id": "C:\\Users\\chrisstone.leon\\Videos\\GamesStore\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\chrisstone.leon\\Videos\\GamesStore\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\chrisstone.leon\\Videos\\GamesStore\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\chrisstone.leon\\Videos\\GamesStore\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\chrisstone.leon\\Videos\\GamesStore\\wwwroot\\icon-192.png",
+      "Id": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\chrisstone.leon\\Videos\\GamesStore\\wwwroot\\index.html",
+      "Id": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\chrisstone.leon\\Videos\\GamesStore\\wwwroot\\sample-data\\weather.json",
+      "Id": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
