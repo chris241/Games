@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1F1TJOywOjzwIgr/XzxFV7y4wV50y6UJgj3N0/JcizQ=",
+  "Hash": "J2oUHkoPNcJL4Div1Ji8fEI09Is6DpaS4ktUrtbJrYE=",
   "Source": "GamesStore",
   "BasePath": "/",
   "Mode": "Root",
@@ -71,7 +71,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -90,15 +90,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.10.z88apaso1o.js",
+      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.10.dttvpwtuld.js",
       "SourceId": "GamesStore",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.10.z88apaso1o.js",
+      "RelativePath": "_framework/dotnet.native.8.0.10.dttvpwtuld.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.10.46uer3dwps.js",
+      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.10.39apnb5yx8.js",
       "SourceId": "GamesStore",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.10.46uer3dwps.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.10.39apnb5yx8.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -166,7 +166,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\GamesStore.pdb",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.10\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -4102,25 +4102,6 @@
       "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Overlapped.wasm"
     },
     {
-      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\2kkfa9tsah.gz",
-      "SourceId": "GamesStore",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
-    },
-    {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\2sckz4vc37.gz",
       "SourceId": "GamesStore",
       "SourceType": "Computed",
@@ -4157,6 +4138,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Requests.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\39apnb5yx8.gz",
+      "SourceId": "GamesStore",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.10.39apnb5yx8.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.10.39apnb5yx8.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.10.39apnb5yx8.js"
     },
     {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\3idwn3ztnv.gz",
@@ -4254,25 +4254,6 @@
       "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.wasm"
     },
     {
-      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\46uer3dwps.gz",
-      "SourceId": "GamesStore",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.10.46uer3dwps.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.10.46uer3dwps.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.10.46uer3dwps.js"
-    },
-    {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\4cxvzjs44w.gz",
       "SourceId": "GamesStore",
       "SourceType": "Computed",
@@ -4309,25 +4290,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\4lwpm359xs.gz",
-      "SourceId": "GamesStore",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\4pz2q2yb2z.gz",
@@ -4634,25 +4596,6 @@
       "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Encodings.Web.wasm"
     },
     {
-      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\6q3md77kca.gz",
-      "SourceId": "GamesStore",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
-    },
-    {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\6zpr3pslvn.gz",
       "SourceId": "GamesStore",
       "SourceType": "Computed",
@@ -4879,6 +4822,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Configuration.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\8jqm1bzm7c.gz",
+      "SourceId": "GamesStore",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\8n388oqnro.gz",
@@ -5337,6 +5299,25 @@
       "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Primitives.wasm"
     },
     {
+      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\d3b5uaod4t.gz",
+      "SourceId": "GamesStore",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
+    },
+    {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\d45k9avxf7.gz",
       "SourceId": "GamesStore",
       "SourceType": "Computed",
@@ -5451,6 +5432,25 @@
       "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Extensions.wasm"
     },
     {
+      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\dttvpwtuld.gz",
+      "SourceId": "GamesStore",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.10.dttvpwtuld.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.10.dttvpwtuld.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.10.dttvpwtuld.js"
+    },
+    {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\du6fo2mrfp.gz",
       "SourceId": "GamesStore",
       "SourceType": "Computed",
@@ -5487,6 +5487,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.Tools.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\e9fk0wvknf.gz",
+      "SourceId": "GamesStore",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\ekqcyre5du.gz",
@@ -5888,6 +5907,25 @@
       "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Claims.wasm"
     },
     {
+      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\gsqam1bzs6.gz",
+      "SourceId": "GamesStore",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
+    },
+    {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\gzjmemhic6.gz",
       "SourceId": "GamesStore",
       "SourceType": "Computed",
@@ -6038,25 +6076,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.WebSockets.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\ih7co6rr5p.gz",
-      "SourceId": "GamesStore",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\ihi5tzfdef.gz",
@@ -6266,25 +6285,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Serialization.Formatters.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\jpdmewhm6a.gz",
-      "SourceId": "GamesStore",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\jrijsgumxf.gz",
@@ -6857,6 +6857,25 @@
       "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Serialization.Json.wasm"
     },
     {
+      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\q4f82dkrg3.gz",
+      "SourceId": "GamesStore",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
+    },
+    {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\q4u0q0118a.gz",
       "SourceId": "GamesStore",
       "SourceType": "Computed",
@@ -6876,23 +6895,23 @@
       "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Globalization.wasm"
     },
     {
-      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\qb1bkzpssb.gz",
+      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\qc5pkvggmj.gz",
       "SourceId": "GamesStore",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "RelatedAsset": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\qfhbofix2u.gz",
@@ -6931,25 +6950,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.StackTrace.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\r1k17xcft6.gz",
-      "SourceId": "GamesStore",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\r1tlz2knl7.gz",
@@ -7579,6 +7579,25 @@
       "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Drawing.wasm"
     },
     {
+      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\yrpojpvlag.gz",
+      "SourceId": "GamesStore",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
+    },
+    {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\yxpkrus7yz.gz",
       "SourceId": "GamesStore",
       "SourceType": "Computed",
@@ -7672,25 +7691,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\z88apaso1o.gz",
-      "SourceId": "GamesStore",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.10.z88apaso1o.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.10.z88apaso1o.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.10.z88apaso1o.js"
     },
     {
       "Identity": "C:\\Users\\chrisstone.leon\\source\\repos\\chris241\\Games\\obj\\Debug\\net8.0\\compressed\\za3jyludiu.gz",
