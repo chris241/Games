@@ -33,9 +33,10 @@ public static class GameClient
         game.Id = games.Max(x=>x.Id) + 1;
         games.Add(game);
     }
-    public static void RemoveGame(Game game)
+    public static void RemoveGame(int id)
     {
-        games.Remove(game);
+        Game existinggame = GetGame(id);
+        games.Remove(existinggame);
     }
     public static Game GetGame(int id)
     {
